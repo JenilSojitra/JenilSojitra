@@ -2,6 +2,8 @@
 
 ---
 
+<br/>
+
 <h1 align="center">Jenil Sojitra - Full Stack Developer</h1>
 
 <p align="center">
@@ -15,6 +17,8 @@ I have a solid background in working with MSSQL Server databases, ensuring data 
 <p align="center">
 I am passionate about continuous learning and driven by the challenge of solving complex problems. If you're looking to collaborate on innovative projects or exchange insights in the tech space, let's connect!
 </p>
+
+<br/>
 
 ---
 
@@ -72,29 +76,40 @@ I am passionate about continuous learning and driven by the challenge of solving
 
 <div align="left"> <h3> My Socials </h3> </div>
 
-###
+---
 
 <div align="left">
+
   <a href="https://www.linkedin.com/in/jenil-sojitra-66a464197" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="35" alt="linkedin logo"  />
   </a>
 
+  <img width="12" />
+
   <a href="mailto:jenilsojitra19@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="35" alt="gmail logo"  />
   </a>
+  
+  <img width="12" />
 
   <a href="https://dribbble.com/jenilsojitra" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" height="35" alt="dribbble logo"  />
   </a>
-  
+
+  <img width="12" />
+
   <a href="https://www.behance.net/jenilsojitra" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" height="35" alt="behance logo"  />
   </a>
-  
+
+  <img width="12" />
+
   <a href="http://instagram.com/__jenil_sojitra__" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="35" alt="instagram logo"  />
   </a>
-  
+
+  <img width="12" />
+
   <a href="https://x.com/JEMSBON00966575" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" height="35" alt="twitter logo"  />
   </a>
