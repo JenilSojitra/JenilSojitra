@@ -4,17 +4,17 @@
 
 <h1 align="center">Jenil Sojitra - Full Stack Developer</h1>
 
-<h2 align="center">
+<p align="center">
 Hi, I'm Jenil Sojitra, a dedicated .NET developer with a year of hands-on experience in creating impactful web applications. My expertise spans a diverse range of technologies, including HTML5, CSS3, JavaScript, and jQuery. I specialize in .NET development, working with ASP.NET MVC, .NET Core, and .NET Core Web API to build robust, scalable solutions.
-</h2>
+</p>
 
-<h2 align="center">
+<p align="center">
 I have a solid background in working with MSSQL Server databases, ensuring data integrity and efficient management within my applications. My skills extend to designing responsive user Interfaces with Bootstrap and translating designs into functional code using tools like Figma.
-</h2>
+</p>
 
-<h2 align="center">
+<p align="center">
 I am passionate about continuous learning and driven by the challenge of solving complex problems. If you're looking to collaborate on innovative projects or exchange insights in the tech space, let's connect!
-</h2>
+</p>
 
 ---
 
@@ -72,47 +72,31 @@ I am passionate about continuous learning and driven by the challenge of solving
 
 <div align="left"> <h3> My Socials </h3> </div>
 
----
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/jenil-sojitra-66a464197" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="35" alt="linkedin logo"  />
   </a>
 
   <a href="mailto:jenilsojitra19@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=14213D&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="35" alt="gmail logo"  />
   </a>
 
   <a href="https://dribbble.com/jenilsojitra" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dribbble logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" height="35" alt="dribbble logo"  />
   </a>
   
   <a href="https://www.behance.net/jenilsojitra" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" height="35" alt="behance logo"  />
   </a>
   
   <a href="http://instagram.com/__jenil_sojitra__" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="35" alt="instagram logo"  />
   </a>
   
   <a href="https://x.com/JEMSBON00966575" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" height="35" alt="twitter logo"  />
   </a>
   
 </div>
-
-<br/>
-<br/>
-
-<div align="left"> <h3> Profile Visiter Counter </h3> </div>
-
----
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/JenilSojitra/count.svg?"  />
-</div>
-
-<br/>
-<br/>
-
----
