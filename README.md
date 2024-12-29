@@ -2,10 +2,7 @@
 
 <br/>
 
-
 <h1 align="center">Jenil Sojitra - Full Stack Developer</h1>
-
----
 
 <p align="center">
 Hi, I'm Jenil Sojitra, a dedicated .NET developer with a year of hands-on experience in creating impactful web applications. My expertise spans a diverse range of technologies, including HTML5, CSS3, JavaScript, and jQuery. I specialize in .NET development, working with ASP.NET MVC, .NET Core, and .NET Core Web API to build robust, scalable solutions.
