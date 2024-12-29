@@ -1,11 +1,11 @@
 ![Banner](https://github.com/user-attachments/assets/9a82dfde-9f66-4437-95e0-8fb6a6723456)
 
----
-
 <br/>
 
 
 <h1 align="center">Jenil Sojitra - Full Stack Developer</h1>
+
+---
 
 <p align="center">
 Hi, I'm Jenil Sojitra, a dedicated .NET developer with a year of hands-on experience in creating impactful web applications. My expertise spans a diverse range of technologies, including HTML5, CSS3, JavaScript, and jQuery. I specialize in .NET development, working with ASP.NET MVC, .NET Core, and .NET Core Web API to build robust, scalable solutions.
@@ -19,11 +19,6 @@ I have a solid background in working with MSSQL Server databases, ensuring data 
 I am passionate about continuous learning and driven by the challenge of solving complex problems. If you're looking to collaborate on innovative projects or exchange insights in the tech space, let's connect!
 </p>
 
-<br/>
-
----
-
-<br clear="both">
 <br/>
 
 <div align="left"> <h3> My Skill </h3> </div>
