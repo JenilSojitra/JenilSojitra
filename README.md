@@ -1,8 +1,9 @@
-[![Banner](https://github.com/user-attachments/JenilSojitra/portfolio/main/Banner.png)]
+![Banner](https://github.com/user-attachments/assets/9a82dfde-9f66-4437-95e0-8fb6a6723456)
 
 ---
 
 <br/>
+
 
 <h1 align="center">Jenil Sojitra - Full Stack Developer</h1>
 
