@@ -111,8 +111,6 @@ I am passionate about continuous learning and driven by the challenge of solving
 
 <br/>
 
-<h1 align="center">Visitors</h1>
+<h1 align="left">Visitors</h1>
 
-<div align="center">
 ![Visitor Count](https://profile-counter.glitch.me/jenilsojitra/count.svg)
-</div>
