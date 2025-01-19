@@ -113,4 +113,6 @@ I am passionate about continuous learning and driven by the challenge of solving
 
 <h3 align="left">Visitors</h3>
 
-![Visitor Count](https://profile-counter.glitch.me/jenilsojitra/count.svg)
+---
+
+![](https://komarev.com/ghpvc/?username=jenilsojitra&abbreviated=true&label=PROFILE+VIEWS&style=for-the-badge&color=blue)
