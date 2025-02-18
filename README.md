@@ -73,7 +73,7 @@ I am passionate about continuous learning and driven by the challenge of solving
 
 <div align="left">
 
-  <a href="https://www.linkedin.com/in/jenil-sojitra-66a464197" target="_blank">
+  <a href="https://www.linkedin.com/in/jenilsojitra" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="35" alt="linkedin logo"  />
   </a>
 
@@ -103,7 +103,7 @@ I am passionate about continuous learning and driven by the challenge of solving
 
   <img width="12" />
 
-  <a href="https://x.com/JEMSBON00966575" target="_blank">
+  <a href="https://x.com/JENILSOJITRA25" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" height="35" alt="twitter logo"  />
   </a>
   
