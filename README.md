@@ -5,15 +5,11 @@
 <h1 align="center">Jenil Sojitra - Full Stack Developer</h1>
 
 <p align="center">
-Hi, I'm Jenil Sojitra, a dedicated .NET developer with a year of hands-on experience in creating impactful web applications. My expertise spans a diverse range of technologies, including HTML5, CSS3, JavaScript, and jQuery. I specialize in .NET development, working with ASP.NET MVC, .NET Core, and .NET Core Web API to build robust, scalable solutions.
+As a passionate .NET Core Developer, I specialize in building robust, scalable backend systems using Web API and SQL Server. With hands-on experience in CRM integration and enterprise solutions, I help businesses streamline operations and boost performance through clean architecture, efficient coding practices, and modern development standards.
 </p>
 
 <p align="center">
-I have a solid background in working with MSSQL Server databases, ensuring data integrity and efficient management within my applications. My skills extend to designing responsive user Interfaces with Bootstrap and translating designs into functional code using tools like Figma.
-</p>
-
-<p align="center">
-I am passionate about continuous learning and driven by the challenge of solving complex problems. If you're looking to collaborate on innovative projects or exchange insights in the tech space, let's connect!
+I thrive on transforming complex business needs into high-performance digital solutions. From designing APIs to optimizing database queries and implementing CRM workflows, I bring both technical depth and problem-solving creativity. I’m committed to delivering smart, future-ready software that drives growth. Let’s connect and build something impactful together!
 </p>
 
 <br/>
