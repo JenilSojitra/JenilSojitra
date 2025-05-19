@@ -1,114 +1,108 @@
-![Banner](https://github.com/user-attachments/assets/45ecf57e-b302-4617-8609-30afbf540949)
-
-<br/>
-
 <h1 align="center">Jenil Sojitra - Full Stack Developer</h1>
 
-<p align="center">
-As a passionate .NET Core Developer, I specialize in building robust, scalable backend systems using Web API and SQL Server. With hands-on experience in CRM integration and enterprise solutions, I help businesses streamline operations and boost performance through clean architecture, efficient coding practices, and modern development standards.
-</p>
+![Banner](https://github.com/user-attachments/assets/45ecf57e-b302-4617-8609-30afbf540949)
 
-<p align="center">
-I thrive on transforming complex business needs into high-performance digital solutions. From designing APIs to optimizing database queries and implementing CRM workflows, I bring both technical depth and problem-solving creativity. I’m committed to delivering smart, future-ready software that drives growth. Let’s connect and build something impactful together!
-</p>
+Welcome to my GitHub! I'm a **Full Stack Developer** specializing in **.NET Core**, **Web API**, and **SQL Server**, with a passion for crafting scalable, high-performance backend systems and dynamic front-end experiences. With expertise in **CRM integration**, **clean architecture**, and modern frameworks like **React** and **Angular**, I transform complex business challenges into efficient, future-ready solutions.
 
-<br/>
+I thrive on delivering robust enterprise applications, optimizing database performance, and building seamless user interfaces. My goal is to drive business growth through innovative software solutions. Let’s connect to create something extraordinary!
 
-<div align="left"> <h3> My Skill </h3> </div>
+## 🚀 My Skills
 
----
+A versatile skill set spanning backend, frontend, and version control, ensuring end-to-end development excellence.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(60px, 1fr)); gap: 15px; justify-items: center;">
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
+    <p style="font-size: 12px; margin: 5px 0 0;">.NET Core</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
+    <p style="font-size: 12px; margin: 5px 0 0;">C#</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
+    <p style="font-size: 12px; margin: 5px 0 0;">SQL Server</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
+    <p style="font-size: 12px; margin: 5px 0 0;">React</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
+    <p style="font-size: 12px; margin: 5px 0 0;">Angular</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
+    <p style="font-size: 12px; margin: 5px 0 0;">Bootstrap</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
+    <p style="font-size: 12px; margin: 5px 0 0;">JavaScript</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
+    <p style="font-size: 12px; margin: 5px 0 0;">HTML5</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
+    <p style="font-size: 12px; margin: 5px 0 0;">CSS3</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
+    <p style="font-size: 12px; margin: 5px 0 0;">Azure</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
+    <p style="font-size: 12px; margin: 5px 0 0;">Git</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
+    <p style="font-size: 12px; margin: 5px 0 0;">GitHub</p>
+  </div>
 </div>
 
-<br/>
-<br/>
+## 🛠️ Featured Projects
 
-<div align="left"> <h3> My Socials </h3> </div>
+Explore some of my recent work showcasing full-stack development, UI/UX design, and scalable architectures.
 
----
+- **[Portfolio](https://jenilsojitra.vercel.app/)**  
+  A personal portfolio highlighting my skills, projects, and achievements. Built with **Next.js**, **React**, and **Tailwind CSS** for a responsive, modern design.  
+  *Technologies*: Next.js, React, Tailwind CSS, Vercel.
 
-<div align="left">
+- **[TrippyTrails - Travel Agency](https://trippytrails.vercel.app/)**  
+  A vibrant landing page for a travel agency, featuring stunning visuals and smooth user interactions. Designed to drive bookings with a user-friendly interface.  
+  *Technologies*: React, CSS, Vercel.
 
+- **[Zyphos - Digital Marketing](https://zyphos.vercel.app/)**  
+  A sleek landing page for a digital marketing agency, optimized for lead generation and SEO. Combines modern design with performance-driven code.  
+  *Technologies*: React, JavaScript, Vercel.
+
+- **[PrintNexus - E-commerce](https://print-nexus.netlify.app/home)**  
+  A fully functional e-commerce platform for custom prints, featuring product listings, cart functionality, and secure checkout.  
+  *Technologies*: React, Node.js, MongoDB, Netlify.
+
+## 📱 Connect with Me
+
+Let’s collaborate on innovative projects or discuss tech trends!
+
+<div style="display: flex; gap: 15px; align-items: center;">
   <a href="https://www.linkedin.com/in/jenilsojitra" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="35" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="35" alt="LinkedIn" />
   </a>
-
-  <img width="12" />
-
   <a href="mailto:jenilsojitra19@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="35" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="35" alt="Gmail" />
   </a>
-  
-  <img width="12" />
-
-  <a href="https://dribbble.com/jenilsojitra" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" height="35" alt="dribbble logo"  />
-  </a>
-
-  <img width="12" />
-
-  <a href="https://www.behance.net/jenilsojitra" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" height="35" alt="behance logo"  />
-  </a>
-
-  <img width="12" />
-
-  <a href="http://instagram.com/__jenil_sojitra__" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="35" alt="instagram logo"  />
-  </a>
-
-  <img width="12" />
-
   <a href="https://x.com/JENILSOJITRA25" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" height="35" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" height="35" alt="X" />
   </a>
-  
+  <a href="https://www.behance.net/jenilsojitra" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" height="35" alt="Behance" />
+  </a>
+  <a href="http://instagram.com/__jenil_sojitra__" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="35" alt="Instagram" />
+  </a>
 </div>
 
-<br/>
+## 👁️ Visitors
 
-<h3 align="left">Visitors</h3>
-
----
-
-![](https://komarev.com/ghpvc/?username=jenilsojitra&abbreviated=true&label=PROFILE+VIEWS&style=for-the-badge&color=blue)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=jenilsojitra.jenilsojitra)
