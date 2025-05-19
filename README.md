@@ -1,69 +1,14 @@
-<h1 align="center">Jenil Sojitra - Full Stack Developer</h1>
-
 ![Banner](https://github.com/user-attachments/assets/45ecf57e-b302-4617-8609-30afbf540949)
+
+<h1 h1 align="center">Jenil Sojitra - Full Stack Developer</h1>
 
 Welcome to my GitHub! I'm a **Full Stack Developer** specializing in **.NET Core**, **Web API**, and **SQL Server**, with a passion for crafting scalable, high-performance backend systems and dynamic front-end experiences. With expertise in **CRM integration**, **clean architecture**, and modern frameworks like **React** and **Angular**, I transform complex business challenges into efficient, future-ready solutions.
 
 I thrive on delivering robust enterprise applications, optimizing database performance, and building seamless user interfaces. My goal is to drive business growth through innovative software solutions. Let’s connect to create something extraordinary!
 
-## 🚀 My Skills
 
-A versatile skill set spanning backend, frontend, and version control, ensuring end-to-end development excellence.
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(60px, 1fr)); gap: 15px; justify-items: center;">
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core" class="skill-icon" />
-    <p style="font-size: 12px; margin: 5px 0 0;">.NET Core</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" class="skill-icon" />
-    <p style="font-size: 12px; margin: 5px 0 0;">C#</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" class="skill-icon" />
-    <p style="font-size: 12px; margin: 5px 0 0;">SQL Server</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" class="skill-icon" />
-    <p style="font-size: 12px; margin: 5px 0 0;">React</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" class="skill-icon" />
-    <p style="font-size: 12px; margin: 5px 0 0;">Angular</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" class="skill-icon" />
-    <p style="font-size: 12px; margin: 5px 0 0;">Bootstrap</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" class="skill-icon" />
-    <p style="font-size: 12px; margin: 5px 0 0;">Tailwind CSS</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" class="skill-icon" />
-    <p style="font-size: 12px; margin: 5px 0 0;">JavaScript</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" class="skill-icon" />
-    <p style="font-size: 12px; margin: 5px 0 0;">HTML5</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" class="skill-icon" />
-    <p style="font-size: 12px; margin: 5px 0 0;">CSS3</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" class="skill-icon" />
-    <p style="font-size: 12px; margin: 5px 0 0;">Azure</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" class="skill-icon" />
-    <p style="font-size: 12px; margin: 5px 0 0;">Git</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" class="skill-icon" />
-    <p style="font-size: 12px; margin: 5px 0 0;">GitHub</p>
-  </div>
-</div>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
 ## 🛠️ Featured Projects
 
@@ -89,28 +34,17 @@ Explore some of my recent work showcasing full-stack development, UI/UX design, 
   A lightweight npm package providing mathematical utilities for developers. Designed for easy integration and high performance in JavaScript applications.  
   *Technologies*: JavaScript, Node.js, npm.
 
-## 📱 Connect with Me
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jenilsojitra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=jenilsojitra&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jenilsojitra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Let’s collaborate on innovative projects or discuss tech trends!
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/jenilsojitra) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__jenil_sojitra__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jenilsojitra) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jenilsojitra) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/jenilsojitra) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JENILSOJITRA25) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jenilsojitra19@gmail.com) 
 
-<div style="display: flex; gap: 15px; align-items: center;">
-  <a href="https://www.linkedin.com/in/jenilsojitra" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="35" alt="LinkedIn" />
-  </a>
-  <a href="mailto:jenilsojitra19@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="35" alt="Gmail" />
-  </a>
-  <a href="https://x.com/JENILSOJITRA25" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" height="35" alt="X" />
-  </a>
-  <a href="https://www.behance.net/jenilsojitra" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" height="35" alt="Behance" />
-  </a>
-  <a href="http://instagram.com/__jenil_sojitra__" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="35" alt="Instagram" />
-  </a>
-</div>
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Jemsbond95) 
 
-## 👁️ Visitors
+  ## 👁️ Visitors
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=jenilsojitra.jenilsojitra)
