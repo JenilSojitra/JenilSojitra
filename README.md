@@ -15,24 +15,19 @@ I thrive on delivering robust enterprise applications, optimizing database perfo
 Explore some of my recent work showcasing full-stack development, UI/UX design, and scalable architectures.
 
 - **[Portfolio](https://jenilsojitra.vercel.app/)**  
-  A personal portfolio highlighting my skills, projects, and achievements. Built with **Next.js**, **React**, and **Tailwind CSS** for a responsive, modern design.  
-  *Technologies*: Next.js, React, Tailwind CSS, Vercel.
+  A personal portfolio highlighting my skills, projects, and achievements. Built for a responsive, modern design. 
 
 - **[TrippyTrails - Travel Agency](https://trippytrails.vercel.app/)**  
-  A vibrant landing page for a travel agency, featuring stunning visuals and smooth user interactions. Designed to drive bookings with a user-friendly interface.  
-  *Technologies*: React, CSS, Vercel.
+  A vibrant landing page for a travel agency, featuring stunning visuals and smooth user interactions. Designed to drive bookings with a user-friendly interface. 
 
 - **[Zyphos - Digital Marketing](https://zyphos.vercel.app/)**  
-  A sleek landing page for a digital marketing agency, optimized for lead generation and SEO. Combines modern design with performance-driven code.  
-  *Technologies*: React, JavaScript, Vercel.
+  A sleek landing page for a digital marketing agency, optimized for lead generation and SEO. Combines modern design with performance-driven code.
 
 - **[PrintNexus - E-commerce](https://print-nexus.netlify.app/home)**  
-  A fully functional e-commerce platform for custom prints, featuring product listings, cart functionality, and secure checkout.  
-  *Technologies*: React, Node.js, MongoDB, Netlify.
+  A fully functional e-commerce platform for custom prints, featuring product listings, cart functionality, and secure checkout.
 
 - **[Mathora - npm Package](https://github.com/JenilSojitra/mathora)**  
   A lightweight npm package providing mathematical utilities for developers. Designed for easy integration and high performance in JavaScript applications.  
-  *Technologies*: JavaScript, Node.js, npm.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jenilsojitra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
