@@ -2,9 +2,19 @@
 
 <h1 h1 align="center">Jenil Sojitra - Full Stack Developer</h1>
 
-Welcome to my GitHub! I'm a **Full Stack Developer** specializing in **.NET Core**, **Web API**, and **SQL Server**, with a passion for crafting scalable, high-performance backend systems and dynamic front-end experiences. With expertise in **CRM integration**, **clean architecture**, and modern frameworks like **React** and **Angular**, I transform complex business challenges into efficient, future-ready solutions.
+👋 Welcome to my GitHub!
 
-I thrive on delivering robust enterprise applications, optimizing database performance, and building seamless user interfaces. My goal is to drive business growth through innovative software solutions. Let’s connect to create something extraordinary!
+I'm a Full Stack Developer passionate about solving real-world business problems with scalable, high-performance applications. I specialize in .NET Core, ASP.NET, C#, Web API, and SQL Server, while continuously expanding my expertise in modern web, desktop, and database technologies.
+
+I thrive on designing clean architectures, optimizing database performance, and building seamless user experiences. My toolbox includes:
+
+💻 Backend & Database: .NET Core, ASP.NET, C#, Web API, SQL Server, SQLite
+🎨 Frontend: HTML, CSS, JavaScript, Angular, Bootstrap, Tailwind CSS, jQuery
+🖥️ Other Skills: Git & Version Control, Desktop Application Development, UI/UX design principles
+
+⚡ Mindset: I’m a lifelong learner, always exploring emerging technologies to stay ahead in building innovative and future-ready solutions.
+
+🚀 Goal: To create applications that not only work but scale efficiently and drive business growth. Let’s connect and build something extraordinary together!
 
 
 # 💻 Tech Stack:
@@ -14,20 +24,20 @@ I thrive on delivering robust enterprise applications, optimizing database perfo
 
 Explore some of my recent work showcasing full-stack development, UI/UX design, and scalable architectures.
 
-- **[Portfolio](https://jenilsojitra.vercel.app/)**  
-  A personal portfolio highlighting my skills, projects, and achievements. Built for a responsive, modern design. 
+- 📌 **[Portfolio](https://jenilsojitra.vercel.app/)**  
+  A personal portfolio showcasing my skills, projects, and achievements. Built with a responsive, modern design for an engaging user experience. 
 
-- **[TrippyTrails - Travel Agency](https://trippytrails.vercel.app/)**  
-  A vibrant landing page for a travel agency, featuring stunning visuals and smooth user interactions. Designed to drive bookings with a user-friendly interface. 
+- 🌍 **[TrippyTrails - Travel Agency](https://trippytrails.vercel.app/)**  
+  A vibrant landing page for a travel agency, featuring stunning visuals, smooth interactions, and a conversion-focused design to drive bookings. 
 
-- **[Zyphos - Digital Marketing](https://zyphos.vercel.app/)**  
-  A sleek landing page for a digital marketing agency, optimized for lead generation and SEO. Combines modern design with performance-driven code.
+- 📈 **[Zyphos - Digital Marketing](https://zyphos.vercel.app/)**  
+  A sleek landing page for a digital marketing agency, optimized for lead generation, SEO, and performance. Combines clean UI with business-driven features.
 
-- **[PrintNexus - E-commerce](https://print-nexus.netlify.app/home)**  
-  A fully functional e-commerce platform for custom prints, featuring product listings, cart functionality, and secure checkout.
+- 🛒 **[PrintNexus - E-commerce](https://print-nexus.netlify.app/home)**  
+  A fully functional e-commerce platform with product listings, cart, and secure checkout. Built for scalability and performance-driven shopping experiences.
 
-- **[Mathora - npm Package](https://github.com/JenilSojitra/mathora)**  
-  A lightweight npm package providing mathematical utilities for developers. Designed for easy integration and high performance in JavaScript applications.  
+- 🔢 **[Mathora - npm Package](https://github.com/JenilSojitra/mathora)**  
+  A lightweight npm package providing mathematical utilities for developers. Designed for ease of integration, efficiency, and performance in JavaScript applications.  
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jenilsojitra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
