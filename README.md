@@ -10,7 +10,7 @@ I thrive on designing clean architectures, optimizing database performance, and 
 
 💻 Backend & Database: .NET Core, ASP.NET, C#, Web API, SQL Server, SQLite
 🎨 Frontend: HTML, CSS, JavaScript, Angular, Bootstrap, Tailwind CSS, jQuery
-🖥️ Other Skills: Git & Version Control, Desktop Application Development, UI/UX design principles
+🖥️ Other Skills: Git & Version Control, Desktop Application Development
 
 ⚡ Mindset: I’m a lifelong learner, always exploring emerging technologies to stay ahead in building innovative and future-ready solutions.
 
@@ -37,7 +37,10 @@ Explore some of my recent work showcasing full-stack development, UI/UX design, 
   A fully functional e-commerce platform with product listings, cart, and secure checkout. Built for scalability and performance-driven shopping experiences.
 
 - 🔢 **[Mathora - npm Package](https://github.com/JenilSojitra/mathora)**  
-  A lightweight npm package providing mathematical utilities for developers. Designed for ease of integration, efficiency, and performance in JavaScript applications.  
+  A lightweight npm package providing mathematical utilities for developers. Designed for ease of integration, efficiency, and performance in JavaScript applications.
+
+- ⚙️ **[GenericApiResponse - .NET Package](https://github.com/JenilSojitra/GenericApiReponse)**
+  A custom .NET/C# package for managing standardized API responses. Helps developers build clean, consistent, and maintainable Web APIs with unified response structures and error handling.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jenilsojitra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
